@@ -1,4 +1,5 @@
 # Hi there, I'm Hariom! 👋
+### Building Scalable Distributed Systems & Exploring the Future of Gen AI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariom454&show_icons=true&theme=default)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hariom454.hariom454)
@@ -9,6 +10,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -22,7 +24,7 @@ I'm an experienced Software Development Engineer with a proven track record of l
 
 - 🚀 **Industry Experience:** Led key initiatives at Fabric Commerce and Goldman Sachs, specializing in building scalable, low-latency, distributed systems for high-stakes environments.
 - 💡 **Core Skills:**  
-  - Programming: **Java, C++**
+  - Programming: **Java, C++, Go**
   - Cloud: **AWS Services**
   - Event-Driven Systems, Apache Kafka, MongoDB, RxJava
   - System Design, Performance Optimization, Cost Reduction
@@ -31,19 +33,52 @@ I'm an experienced Software Development Engineer with a proven track record of l
 
 ---
 
-## 🛠️ What I Do
+## 🎯 Areas of Interest & Passion
 
-- Architect and implement backend systems for reliability and scale.
-- Design APIs and integrate third-party services.
-- Optimize for performance, cost, and maintainability.
-- Contribute to open-source and technical communities.
+- 🔄 **Distributed Systems:** Designing fault-tolerant, scalable architectures with event-driven patterns
+- 🤖 **Generative AI:** Building AI-powered tools using LLMs through API integrations and MCP servers
+- ⚡ **High-Performance Computing:** Low-latency systems and performance optimization
+- 🏗️ **System Architecture:** Microservices, event streaming with Kafka, and cloud-native solutions
 
 ---
 
-## 🌟 Selected Projects
+## 🛠️ What I Do
 
-- [system-design](https://github.com/hariom454/system-design): Notes and approaches for solving system design problems.
-- [openapi-demo](https://github.com/hariom454/openapi-demo): Spring Boot project demonstrating OpenAPI spec integration.
+- 🏗️ Architect and implement **distributed systems** for reliability and scale
+- 🔗 Design **event-driven architectures** with Kafka and stream processing
+- 🚀 Optimize for **performance, cost, and maintainability** in cloud environments
+- 🔌 Design and build robust **APIs** and integrate third-party services
+- 📚 Contribute to **open-source** and share knowledge with the technical community
+
+---
+
+## 🌟 Featured Projects
+
+### System Design & Architecture
+- [system-design](https://github.com/hariom454/system-design): Comprehensive notes and approaches for solving system design problems, covering distributed systems patterns and scalability techniques
+
+### Backend & APIs
+- [openapi-demo](https://github.com/hariom454/openapi-demo): Spring Boot project demonstrating OpenAPI spec integration and RESTful API best practices
+
+### Gen AI & Innovation (Coming Soon)
+- Building AI-powered developer tools using LLM APIs
+- Exploring MCP servers for Gen AI applications
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Gen AI integration patterns and building with LLM APIs
+- 🔄 Advanced distributed systems patterns (CQRS, Event Sourcing)
+- ☁️ Cloud-native architectures and Kubernetes
+- 📊 Real-time data processing and stream analytics at scale
+
+---
+
+## 📊 GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariom454&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariom454&theme=default)
 
 ---
 
@@ -56,11 +91,22 @@ I'm an experienced Software Development Engineer with a proven track record of l
 
 ---
 
-## 📫 Get In Touch
+## ✍️ Technical Writing & Blogs
 
-- **LinkedIn:** [Hariom Singh](https://www.linkedin.com/in/hariom-singh-030b88106/) on Linkedin
-- **Personal website:** [Hariom Singh](https://medium.com/@bais_hariom) on Medium
+I share insights and learnings on [Medium](https://medium.com/@bais_hariom), covering topics like:
+- Distributed systems architecture and design patterns
+- Performance optimization techniques
+- Backend engineering best practices
+- System design deep dives
 
 ---
 
-Thanks for stopping by! Feel free to check out my pinned repositories below or connect with me for collaboration or mentorship.
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [Hariom Singh](https://www.linkedin.com/in/hariom-singh-030b88106/)
+- ✍️ **Medium:** [Technical Articles & Blogs](https://medium.com/@bais_hariom)
+- 📧 **Open for:** Collaboration, mentorship, and technical discussions
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, read my articles, or reach out for collaboration and mentorship opportunities.
